@@ -2,7 +2,7 @@
 
 A chat application made in 25 steps, and designed to look a little bit like Slack.
 
-> With channels for multiple users and infinite scroll and a list of channels in a sidebar.
+> With channels for multiple users, markdown, gravatar, an autosizing textarea and a list of channels in a sidebar.
 
 ## Disclaimer
 
