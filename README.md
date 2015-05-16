@@ -50,7 +50,7 @@ Thanks to [@timbrandin](https://twitter.com/timbrandin) who created this materia
 * Oscar ([@oscrse](https://twitter.com/oscrse))
 * Patrik ([@gopatrik](https://twitter.com/gopatrik))
 * Per Fredelius ([@worldsayshi](https://github.com/worldsayshi))
-* Robin Lindh Nilsson (?)
+* Robin Lindh Nilsson ([@RobinerdMusic](https://twitter.com/RobinerdMusic))
 * Tim Brandin ([@timbrandin](https://twitter.com/timbrandin))
 * Tobias Tikka ([@tobiastikka](https://twitter.com/tobiastikka))
 
