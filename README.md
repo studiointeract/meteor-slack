@@ -1,4 +1,4 @@
-# Meteor Slack
+# Meteor Slack (Now called [SpaceTalk](http://github.com/SpaceTalk/SpaceTalk)
 
 A chat application made in 25 steps, and designed to look a little bit like Slack.
 
